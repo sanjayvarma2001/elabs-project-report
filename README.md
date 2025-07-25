@@ -23,10 +23,3 @@ grades – Stores student grades per course and semester
 grades_points – Maps letter grades to grade points
 semester_gpa – Stores GPA calculated for each semester
 Stored Procedure – update_cgpa() calculates cumulative GPA
-
-How It Works
-
-1. Database Creation
-   ```sql
-   CREATE DATABASE studentgradesys;
-   USE studentgradesys;
